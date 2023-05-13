@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-  <main classNae="bg-white">
+  <main className="bg-white">
       <div className="h-screen flex items-center justify-center">
         <div className="text-center">
           <p className="mt-1 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:text-6xl">
